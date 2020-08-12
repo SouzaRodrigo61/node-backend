@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
   Backend NodeJS
-</h3>
+</h1>
 
 ## :rocket: Sobre o desafio
 
