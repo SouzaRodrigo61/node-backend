@@ -1,4 +1,6 @@
-# Funcionalidades
+<h3 align="center">
+  Backend NodeJS
+</h3>
 
 ## :rocket: Sobre o desafio
 
@@ -20,11 +22,9 @@ Agora que você já está com o template clonado, e pronto para continuar, você
 
 -   **`POST /repositories/:id/like`**: A rota deve aumentar o número de likes do repositório específico escolhido através do `id` presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
 
-
 ### Específicação dos testes
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
-
 
 Para esse desafio temos os seguintes testes:
 
